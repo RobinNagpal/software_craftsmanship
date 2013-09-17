@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../solution_without_tdd/solution_7/Robot.iml" filepath="$PROJECT_DIR$/../solution_without_tdd/solution_7/Robot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../solution_without_tdd/solution_2/Robot.iml" filepath="$PROJECT_DIR$/../solution_without_tdd/solution_2/Robot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../solution_without_tdd/solution_4/Robot.iml" filepath="$PROJECT_DIR$/../solution_without_tdd/solution_4/Robot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../solution_without_tdd/solution_9/RobotApp/RobotApp.iml" filepath="$PROJECT_DIR$/../solution_without_tdd/solution_9/RobotApp/RobotApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../solution_without_tdd/solution_13/RobotApp (1) (com.xebia.xke).iml" filepath="$PROJECT_DIR$/../solution_without_tdd/solution_13/RobotApp (1) (com.xebia.xke).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../solution_without_tdd/solution_8/Robot_Application.iml" filepath="$PROJECT_DIR$/../solution_without_tdd/solution_8/Robot_Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../solution_without_tdd/solution_5/Xke-Robot.iml" filepath="$PROJECT_DIR$/../solution_without_tdd/solution_5/Xke-Robot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice.iml" filepath="$PROJECT_DIR$/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../solution_without_tdd/solution_6/robosoft.iml" filepath="$PROJECT_DIR$/../solution_without_tdd/solution_6/robosoft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../solution_without_tdd/solution_1/solution_1.iml" filepath="$PROJECT_DIR$/../solution_without_tdd/solution_1/solution_1.iml" />
+    </modules>
+  </component>
+</project>
+
