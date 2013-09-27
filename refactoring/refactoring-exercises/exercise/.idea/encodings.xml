@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/refactoring/exercise1/Matcher.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/refactoring/exercise2/Configuration.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/refactoring/exercise2/ConfigurationException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/refactoring/exercise3/Expression.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/refactoring/exercise4/Client1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/refactoring/exercise4/Client2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/refactoring/exercise4/Client3.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/refactoring/exercise4/Client4.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/refactoring/exercise4/Person.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/refactoring/exercise5/CsvWriter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/refactoring/exercise6/TicTacToe.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/refactoring/exercise1/MatcherTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/refactoring/exercise2/ConfigurationTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/refactoring/exercise3/ExpressionTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/refactoring/exercise4/PersonClientsTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/refactoring/exercise5/CsvWriterTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/refactoring/exercise6/TicTacToeTest.java" charset="UTF-8" />
+  </component>
+</project>
+
