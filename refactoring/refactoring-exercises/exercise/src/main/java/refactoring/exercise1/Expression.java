@@ -1,4 +1,4 @@
-package refactoring.exercise3;
+package refactoring.exercise1;
 
 public class Expression {
 
@@ -37,4 +37,21 @@ public class Expression {
 			throw new IllegalStateException();
 		}
 	}
+
+    public String  getExpressionDescription() {
+        switch (op) {
+            case 'c':
+                return "Constant";
+            case '+':
+                return "Addition";
+            case '-':
+                return "Subtraction";
+            case '*':
+                return "Multiplication";
+            case '/':
+                return "Division";
+            default:
+                throw new IllegalStateException();
+        }
+    }
 }

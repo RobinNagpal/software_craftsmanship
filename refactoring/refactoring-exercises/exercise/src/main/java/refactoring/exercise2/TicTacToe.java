@@ -1,4 +1,4 @@
-package refactoring.exercise6;
+package refactoring.exercise2;
 
 public class TicTacToe {
 	public StringBuffer board;

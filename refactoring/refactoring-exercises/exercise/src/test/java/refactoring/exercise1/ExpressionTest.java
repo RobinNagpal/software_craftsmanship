@@ -1,4 +1,4 @@
-package refactoring.exercise3;
+package refactoring.exercise1;
 
 import org.junit.Test;
 
