@@ -1,11 +1,13 @@
 This is training material for a basic XP practices/Engineering practices.
 
 Things that will be coverend in this training are 
- - Course Into Presentation (http://prezi.com/1cdze2fpnw6u/elementary-development-skills/)
- - Clean code ( guide is checked in the clean code folder. More details is int the Clean Code - readme.txt)
- - Refactoring 
- - TDD
- - Version Control  
+ ** Course Into Presentation 
+	(http://prezi.com/1cdze2fpnw6u/elementary-development-skills/)
+ ** Clean code ( guide is checked in the clean code folder. 
+	More details is int the Clean Code - readme.txt)
+ ** Refactoring 
+ ** TDD
+ ** Version Control  
    
 This training Contains three main modules i.e. Clean Code, TDD, Refactoring. Each of these will take some where 3-5 hrs. 
 
