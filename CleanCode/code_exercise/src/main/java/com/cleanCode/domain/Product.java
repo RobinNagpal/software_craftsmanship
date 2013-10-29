@@ -1,28 +1,13 @@
 package com.cleanCode.domain;
 
-import com.beachbody.cert.domain.base.BaseActiveEntity;
-
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.EnumType;
-import javax.persistence.Enumerated;
-import javax.xml.bind.annotation.XmlRootElement;
-
-@Entity(name="TBB_CERT_Product")
-@XmlRootElement
-public class Product extends BaseActiveEntity<Long> {
+public class Product {
 
 	private static final long serialVersionUID = 6176173555122648448L;
 
-	@Column
 	private Long productId;
 
-    @Enumerated(EnumType.STRING)
-    @Column(nullable = false)
     private ProgramType programType;
 
-    @Enumerated(EnumType.STRING)
-    @Column(nullable = false)
 	private ProductCategory category;
 
 
@@ -50,11 +35,12 @@ public class Product extends BaseActiveEntity<Long> {
         this.category = category;
     }
 
-    @Override
-    public String toString() {
-        return "Product [productId=" + productId + ", programType=" + programType + ", category=" + category
-                + ", getCreatedDate()=" + getCreatedDate() + ", getModifiedDate()=" + getModifiedDate()
-                + ", getActive()=" + getActive() + ", getId()=" + getId() + "]";
-    }
-	
+  @Override
+  public String toString() {
+    return "Product{" +
+            "productId=" + productId +
+            ", programType=" + programType +
+            ", category=" + category +
+            '}';
+  }
 }

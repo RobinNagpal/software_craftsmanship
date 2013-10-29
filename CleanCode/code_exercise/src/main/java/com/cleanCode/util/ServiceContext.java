@@ -22,8 +22,6 @@
 
 package com.cleanCode.util;
 
-import com.liferay.portal.model.PortletPreferencesIds;
-
 import java.io.Serializable;
 import java.util.LinkedHashMap;
 import java.util.Map;
